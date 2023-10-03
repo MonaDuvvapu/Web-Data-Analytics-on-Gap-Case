@@ -27,4 +27,3 @@ Ratings - Rating for the product
 Review_head - Review one-liner
 Review - Review of the product
 ```
-
