@@ -1,4 +1,4 @@
-# The Python file in this directory is to get the best sellers from Amazon. 
+# The Python file in this directory is to get the product information of Banana Republic Men's Jeans. 
 
 ***
 
