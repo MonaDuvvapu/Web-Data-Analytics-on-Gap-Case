@@ -12,5 +12,4 @@ pip install pytrends
 
 Input the geographic location, product, and, timeframe to get the trending data around these parameters.
 
-After saving it in a CSV file, you will get the fields or products we're comparing with a metric. 
-```
+After saving it in a CSV file, you will get the fields or products we're comparing with a metric.
